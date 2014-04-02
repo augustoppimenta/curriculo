@@ -42,3 +42,8 @@ Idiomas
 * Inglês técnico
 * Espanhol intermediário
 
+Observações
+----------
+
+* Disponibilidade para trabalho em outras cidades
+
