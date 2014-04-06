@@ -19,7 +19,7 @@ Experiência
 
 * Recruti (Agosto de 2013 – até o momento)
 	
-	CEO da startup: desenvolvimento de soluções em e-recruitment.
+	Idealizador da startup: desenvolvimento de soluções em e-recruitment.
 
 * K&M Consultoria (Abril de 2013 – setembro de 2013)
 	
