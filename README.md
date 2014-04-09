@@ -4,7 +4,7 @@ Augusto Pimenta Pereira de Souza
 Objetivo
 ----------
 
-Atuar como Desenvolvedor Back-end
+Atuar como Desenvolvedor back-end
 
 Formação
 ----------
@@ -29,10 +29,8 @@ Experiência
 Competências e Habilidades
 ----------
 
-* Ruby
-* Ruby on Rails
-* HTML
-* CSS
+* Ruby |Rails
+* HTML | CSS
 * Fluxo de trabalho com ferramentas como Git/Github
 * Conhecimento sobre metodologias ágeis
 
@@ -41,6 +39,15 @@ Idiomas
 
 * Inglês técnico
 * Espanhol intermediário
+
+Cursos e Eventos
+----------
+
+* Rails para Designers – Superquadra
+* Ruby iniciantes/DOJO – Potilivre | CodeMiner42
+* Curso de controle de versão com GIT – RBTech
+* Curso de Lógica de programação – Code Squad
+* Scrum na vida real – SWQuality
 
 Observações
 ----------
