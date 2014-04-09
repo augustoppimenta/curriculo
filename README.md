@@ -29,7 +29,7 @@ Experiência
 Competências e Habilidades
 ----------
 
-* Ruby |Rails
+* Ruby | Rails
 * HTML | CSS
 * Fluxo de trabalho com ferramentas como Git/Github
 * Conhecimento sobre metodologias ágeis
