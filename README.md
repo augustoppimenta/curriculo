@@ -4,7 +4,7 @@ Augusto Pimenta Pereira de Souza
 Objetivo
 ----------
 
-Atuar como Desenvolvedor back-end
+Atuar como programador
 
 Formação
 ----------
@@ -19,7 +19,7 @@ Experiência
 
 * Recruti (Agosto de 2013 – até o momento)
 	
-	Idealizador da startup: desenvolvimento de soluções em e-recruitment.
+	C0-founder da startup: desenvolvimento de soluções em e-recruitment.
 
 * K&M Consultoria (Abril de 2013 – setembro de 2013)
 	
@@ -29,7 +29,7 @@ Experiência
 Competências e Habilidades
 ----------
 
-* Ruby | Rails
+* Ruby (Rails) | C
 * HTML | CSS
 * Fluxo de trabalho com ferramentas como Git/Github
 * Conhecimento sobre metodologias ágeis
@@ -47,6 +47,7 @@ Cursos e Eventos
 * Ruby iniciantes/DOJO – Potilivre | CodeMiner42
 * Curso de controle de versão com GIT – RBTech
 * Curso de Lógica de programação – Code Squad
+* CC50 – O Curso de Harvard no Brasil
 * Scrum na vida real – SWQuality
 
 Observações
