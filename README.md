@@ -9,7 +9,7 @@ Atuar como Desenvolvedor Júnior
 Formação
 ----------
 
-* Bacharel, Ciências e Tecnologia pela UFRN.(2012)
+* Bacharel, Ciências e Tecnologia pela UFRN (2012)
 
 * Master of Business Administration (MBA), Gestão Estratégica de Negócios pela UniFACEX.
 
@@ -19,7 +19,7 @@ Experiência
 
 * Recruti (Agosto de 2013 – Abril de 2014)
 	
-	C0-founder da startup: desenvolvimento de soluções em e-recruitment.
+	Co-founder da startup: Desenvolvimento de soluções em e-recruitment.
 
 * K&M Consultoria (Abril de 2013 – Setembro de 2013)
 	
@@ -35,7 +35,7 @@ Competências e Habilidades
 * Conhecimento sobre metodologias ágeis
 * Programação Orientada à Objetos
 * Sistema UNIX
-* Arquiterura MVC
+* Arquitetura MVC
 * Conhecimento em Heroku e AWS - S3
 
 
@@ -48,7 +48,7 @@ Idiomas
 Cursos e Eventos
 ----------
 
-* Professional & Self Coaching pele IBC
+* Professional & Self Coaching pelo IBC
 * Rails para Designers – Superquadra
 * Ruby iniciantes/DOJO – Potilivre | CodeMiner42
 * Curso de controle de versão com GIT – RBTech
