@@ -36,6 +36,7 @@ Competências e Habilidades
 * Programação Orientada à Objetos
 * Sistema UNIX
 * Arquiterura MVC
+* Conhecimento em Heroku e AWS - S3
 
 
 Idiomas
