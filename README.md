@@ -9,15 +9,22 @@ Atuar como Desenvolvedor Júnior
 Formação
 ----------
 
-* Graduando, Análise e Desenvolvimento de Sistemas pela UFRN
+* Graduando, Tecnologia da Informação pela UFRN
 
 * Bacharel, Ciências e Tecnologia pela UFRN (2012)
 
 
 Experiência
 ----------
+* Ex-Machina (Janeiro de 2015)
+	
+	Analista de Negócios:contato com clientes, acompanhamento do projeto e análise de mercado.
 
-* Recruti (Agosto de 2013 – Julho de 2014)
+* SINFO (Agosto de 2014 – Dezembro de 2014)
+	
+	Estágio em BI: modelagem e desenvolvimento de aplicação de Business Intelligence para o Sistema Integrado de Gestão de Atividades Acadêmicas.
+
+* Recruti (Setembro de 2013 – Agosto de 2014)
 	
 	Co-founder da startup: Desenvolvimento de soluções em e-recruitment.
 
@@ -29,8 +36,7 @@ Experiência
 Competências e Habilidades
 ----------
 
-* Ruby (Rails) | C
-* HTML | CSS
+* Ruby (Rails)
 * Fluxo de trabalho com ferramentas como Git/Github
 * Conhecimento sobre metodologias ágeis
 * Programação Orientada à Objetos
@@ -52,12 +58,15 @@ Cursos e Eventos
 * Rails para Designers – Superquadra
 * Ruby iniciantes/DOJO – Potilivre | CodeMiner42
 * Mini-curso de Rails - Projeto Programar Meu Futuro
+* Abril Pro Ruby 2014
 * Code Girl - Programar Meu Futuro
 * Curso de controle de versão com GIT – RBTech
 * Curso de Lógica de programação – Code Squad
 * CC50 – O Curso de Harvard no Brasil
 * Scrum na vida real – SWQuality
-* Abril Pro Ruby 2014
+* Business Intelligence - Intel
+* Cloud Computing - Intel
+
 
 Observações
 ----------
